@@ -5,3 +5,6 @@ pasta
 milk
 bread
 tequila
+pinata
+chips
+guacamole
