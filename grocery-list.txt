@@ -2,7 +2,6 @@ potatoes
 tomatoes
 chicken
 pasta
-hummus
 milk
 bread
-
+tequila
